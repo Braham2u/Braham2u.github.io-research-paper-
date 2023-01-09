@@ -1,6 +1,4 @@
 #jekyll configuration
-theme: minima
-
+theme: jekyll-theme-cayman
 title: mental health
 description: mental health in medicine
-author: Abraham 
