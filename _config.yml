@@ -1,5 +1,6 @@
 #jekyll configuration
 theme: minima
 
-title: [mental health]
-description: [mental health in medicine]
+title: mental health
+description: mental health in medicine
+author: Abraham 
