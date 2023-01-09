@@ -1,7 +1,5 @@
 #jekyll configuration
-remote_theme: pages-themes/minimal@v0.20
-plugins:
-- jekyll-remote-theme
+theme: minima
 
 title: [mental health]
 description: [mental health in medicine]
