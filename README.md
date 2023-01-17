@@ -1,6 +1,6 @@
-# Mental health in medicine
+#  Electronic medical records and telemedicine
 
-## how can medicine affect mental health
+## Innovate developing country healthcare system
 
 random text to test
 
