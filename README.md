@@ -17,6 +17,13 @@ Telemedicine has advance beyond just virtual consultations to include remote dia
 Having had the experience to work in a local clinic as a registered,  one very important development of telemedicine is the integration of EMRs (Electronic Medical Records) a clinical information system that allows healthcare providers to have a more comprehensive view of the patient's health history and make the data easy to share and locate.  
 The COVID 19 pandemic brought a lot of advancement in telemedicine, as thousand healthcare workers were at risk of contacting the virus, we saw healthcare providers giving consultations from homing, helping to reduce the virus tension and high transmission. 
 
+### Invention/ services that telemedecine currently provide to health care.  
+
+There are numerous devices and new developments that have been added to health systems globally over the past years due to the introduction of technology in the health care sector. Below are listed a few services that are presently available for healthcare providers and receiver use.  
+
+Virtual consultations: now patients can have a live video consultation with a healthcare provider remotely using phone, internet, or video conferencing. 
+
+Remote monitoring: A patients can wear a monitoring device so that his/her vital sign can be monitor be a healthcare provider remotely.  
 this is how to put a image ![](name of image file usuallz jpg)
 
 this is how to put links [title of link](link)
