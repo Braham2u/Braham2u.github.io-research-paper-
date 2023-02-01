@@ -62,3 +62,10 @@ Increased access to care: Telemedicine allows patients in remote or underserved 
 this is how to put a image ![](name of image file usuallz jpg)
 
 this is how to put links [title of link](link)
+### Sources
+
+1. [title of link](link)
+2. [title of link](link)
+3. [title of link](link)
+4. [title of link](link)
+5. [title of link](link)
