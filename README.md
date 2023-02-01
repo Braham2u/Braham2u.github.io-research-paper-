@@ -29,6 +29,8 @@ Virtual consultations: now patients can have a live video consultation with a he
 
 Remote monitoring: A patients can wear a monitoring device so that his/her vital sign can be monitor be a healthcare provider remotely.  
 
+![](graph.jpeg)
+
 ### How can telemedicine improve the healthcare system in developing countries?  
 
   
