@@ -1,1 +1,16 @@
+---
+---
+
 @import "{{ site.theme }}";
+
+.btn {
+  display: none !important;
+}
+
+.page-header {
+    background-image: linear-gradient( to right, #380036, #0CBABA);
+   }
+
+
+
+
