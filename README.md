@@ -24,6 +24,35 @@ There are numerous devices and new developments that have been added to health s
 Virtual consultations: now patients can have a live video consultation with a healthcare provider remotely using phone, internet, or video conferencing. 
 
 Remote monitoring: A patients can wear a monitoring device so that his/her vital sign can be monitor be a healthcare provider remotely.  
+
+### How can telemedicine improve the healthcare system in developing countries?  
+
+  
+Improved patient outcomes: Telemedicine and EMRs allow healthcare providers to monitor patients remotely and track their progress, which can lead to early identification of issues and prompt intervention. EMRs also enable healthcare providers to access patient information quickly and make more informed treatment decisions. 
+
+Reduced costs: Telemedicine and EMRs can reduce the need for in-person visits, which can save patients and healthcare providers time and money. EMRs also enable healthcare providers to avoid duplicate tests and procedures, which can reduce costs for patients. 
+
+Increased patient engagement: EMRs allow patients to access their health information and communicate with their healthcare providers more easily, which can increase their engagement in their own care. Telemedicine also allows patients to have virtual visits with their healthcare providers, which can increase their engagement in their own care. 
+
+Improved data collection and analysis: EMRs allow healthcare providers to collect and analyze patient data more easily, which can help identify trends, patterns, and potential health issues. This information can be used to improve patient care, identify areas for improvement, and inform public health policies. 
+
+ 
+
+Reduced costs: Telemedicine can help reduce costs for both patients and healthcare providers by eliminating the need for travel and in-person visits. 
+
+Improved patient outcomes: Telemedicine allows for more frequent and consistent follow-up care, which can help improve patient outcomes and reduce the risk of complications. 
+
+Increased efficiency: Telemedicine can help reduce wait times and improve the efficiency of healthcare delivery by allowing medical professionals to conduct virtual consultations and share patient information electronically. 
+
+Better coordination of care: Telemedicine can help improve communication and coordination between healthcare providers, making it easier to share patient information and collaborate on treatment plans. 
+
+More convenient for patients: Telemedicine allows patients to receive care from the comfort of their own homes, which can be more convenient and less stressful than in-person visits. 
+
+More efficient use of resources: Telemedicine can help healthcare providers more efficiently use resources, such as expensive medical equipment, by allowing them to remotely monitor patients and share data. 
+
+Improved patient satisfaction: Telemedicine can improve patient satisfaction by providing more convenient and accessible healthcare options and reducing the need for in-person visits. 
+
+Increased access to care: Telemedicine allows patients in remote or underserved areas to receive medical consultations and treatment without having to travel long distances. EMRs also allow healthcare providers to share patient information with other providers, regardless of location. 
 this is how to put a image ![](name of image file usuallz jpg)
 
 this is how to put links [title of link](link)
