@@ -64,8 +64,8 @@ this is how to put a image ![](name of image file usuallz jpg)
 this is how to put links [title of link](link)
 ### Sources
 
-1. [title of link](link)
-2. [title of link](link)
-3. [title of link](link)
-4. [title of link](link)
-5. [title of link](link)
+1. [https://www.softwareadvice.com/medical/carecloud-charts-profile/](https://www.softwareadvice.com/medical/carecloud-charts-profile/)
+2. [https://www.digitaljournal.com/pr/electronic-medical-records-emr-market-share-size-worth-usd-47640-2-million-at-a-cagr-of-7-30-during-the-forecast-period-2029](https://www.digitaljournal.com/pr/electronic-medical-records-emr-market-share-size-worth-usd-47640-2-million-at-a-cagr-of-7-30-during-the-forecast-period-2029)
+3. [https://rockhealth.com/why-electronic-medical-records-are-failing-to-meet-expectations/](https://rockhealth.com/why-electronic-medical-records-are-failing-to-meet-expectations/)
+4. Coughlin, T. A., Zuckerman, S., & McFeeters, J. (2007). Restoring Fiscal Integrity To Medicaid Financing? Health Affairs, 26(5), 1469–1480. https://doi.org/10.1377/hlthaff.26.5.1469
+5. O’Shea, A. M., Vaughan Sarrazin, M., Nassar, B., Cram, P., Johnson, L., Bonello, R., Panos, R. J., & Reisinger, H. S. (2017). Using electronic medical record notes to measure ICU telemedicine utilization. Journal of the American Medical Informatics Association, 24(5), 969–974. https://doi.org/10.1093/jamia/ocx029
